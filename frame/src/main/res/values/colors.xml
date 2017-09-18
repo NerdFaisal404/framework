@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/colorTeal500</color>
+    <color name="colorPrimaryDark">@color/colorTeal700</color>
+    <color name="colorAccent">@color/colorGreen900</color>
+
+
+    <color name="colorRedDark">#aa0707</color>
+
+
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorWhite1">#fafafa</color>
+    <color name="colorWhite2">#f4f4f4</color>
+    <color name="colorLightWhite">#e9e6e6</color>
+    <color name="colorLightWhite1">#f7f6f6</color>
+    <color name="colorLightDark">#ececec</color>
+    <color name="colorLightDark1">#bab7b7</color>
+
+    <color name="colorBlack">#000000</color>
+    <color name="colorBlack1">#494343</color>
+    <color name="colorBlack2">#868484</color>
+    <color name="colorBlack3">#dedede</color>
+    <color name="colorBlack4">#eaeaea</color>
+
+    <color name="colorDarkGray">#696666</color>
+
+
+    <!--android color-palette-->
+    <color name="colorRed500">#fff44336</color>
+    <color name="colorRed700">#ffd32f2f</color>
+    <color name="colorRed900">#ffb71c1c</color>
+
+    <color name="colorPink500">#ffe91e63</color>
+    <color name="colorPink700">#ffc2185b</color>
+    <color name="colorPink900">#ff880e4f</color>
+
+    <color name="colorPurple500">#ff9c27b0</color>
+    <color name="colorPurple700">#ff7b1fa2</color>
+    <color name="colorPurple900">#ff4a148c</color>
+
+    <color name="colorDeepPurple500">#ff673ab7</color>
+    <color name="colorDeepPurple700">#ff512da8</color>
+    <color name="colorDeepPurple900">#311b92</color>
+
+    <color name="colorIndigo500">#ff3f51b5</color>
+    <color name="colorIndigo700">#ff3949ab</color>
+    <color name="colorIndigo900">#1a237e</color>
+
+    <color name="colorBlue500">#ff2196f3</color>
+    <color name="colorBlue700">#ff1976d2</color>
+    <color name="colorBlue900">#0d47a1</color>
+
+    <color name="colorLightBlue600">#039be5</color>
+    <color name="colorLightBlue700">#ff0288d1</color>
+    <color name="colorLightBlue900">#ff01579b</color>
+
+    <color name="colorCyan600">#00acc1</color>
+    <color name="colorCyan700">#ff0097a7</color>
+    <color name="colorCyan900">#ff006064</color>
+
+    <color name="colorTeal500">#ff009688</color>
+    <color name="colorTeal700">#ff00796b</color>
+    <color name="colorTeal900">#004d40</color>
+
+    <color name="colorGreen600">#43a047</color>
+    <color name="colorGreen700">#ff388e3c</color>
+    <color name="colorGreen900">#ff1b5e20</color>
+
+    <color name="colorLightGreen600">#7cb342</color>
+    <color name="colorLightGreen700">#ff689f38</color>
+    <color name="colorLightGreen900">#ff33691e</color>
+
+    <color name="colorLime600">#c0ca33</color>
+    <color name="colorLime800">#ff9e9d24</color>
+    <color name="colorLime900">#ff827717</color>
+
+    <color name="colorYellow600">#fdd835</color>
+    <color name="colorYellow800">#fff9a825</color>
+    <color name="colorYellow900">#fff57f17</color>
+
+    <color name="colorAmber600">#ffb300</color>
+    <color name="colorAmber800">#ffff8f00</color>
+    <color name="colorAmber900">#ffff6f00</color>
+
+    <color name="colorOrange600">#fb8c00</color>
+    <color name="colorOrange800">#ffef6c00</color>
+    <color name="colorOrange900">#ffe65100</color>
+
+    <color name="colorDeepOrange600">#f4511e</color>
+    <color name="colorDeepOrange800">#ffd84315</color>
+    <color name="colorDeepOrange900">#ffbf360c</color>
+
+    <color name="colorBrown600">#6d4c41</color>
+    <color name="colorBrown800">#ff4e342e</color>
+    <color name="colorBrown900">#ff3e2723</color>
+
+    <color name="colorGrey600">#757575</color>
+    <color name="colorGrey800">#ff424242</color>
+    <color name="colorGrey900">#ff212121</color>
+
+    <color name="colorBlueGrey600">#546e7a</color>
+    <color name="colorBlueGrey800">#ff37474f</color>
+    <color name="colorBlueGrey900">#ff263238</color>
+    <!--android color-palette-->
+
+    <!-- Material Sheet Fab-->
+    <color name="theme_primary">#00BCD4</color>
+    <color name="theme_primary_dark">#0097A7</color>
+    <color name="theme_primary_dark2">#006064</color>
+    <color name="theme_accent">#FFEB3B</color>
+
+    <color name="background_card">#fff</color>
+    <color name="background_snackbar">#323232</color>
+
+    <color name="text_black_87">#de000000</color>
+    <color name="text_white_87">#deFFFFFF</color>
+
+    <!--  stateful -->
+    <color name="sfl_placeholder">#8a000000</color>
+
+    <!-- confetti -->
+    <color name="gold_dark">#946335</color>
+    <color name="gold_med">#ab804b</color>
+    <color name="gold">#cea774</color>
+    <color name="gold_light">#edd3b2</color>
+
+    <array name="note_neutral_colors">
+        <item>#9E9E9E</item>
+        <item>#455A64</item>
+        <item>#607D8B</item>
+    </array>
+
+    <array name="note_accent_colors">
+        <item>#039BE5</item>
+        <item>#3D51B3</item>
+        <item>#689f38</item>
+        <item>#FD7044</item>
+    </array>
+
+</resources>
